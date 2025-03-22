@@ -1,0 +1,20 @@
+<html>
+<head>
+<meta name="Author" content="">
+<meta name="Generator" content="Paint Shop Pro 9">
+<title>	</title>
+</head>
+<body>
+
+<img name="TSTO_TUTORIAL_Cover_Page0" src="TSTO_TUTORIAL_Cover_Page.gif" width="2000" height="2588" border="0" usemap="#TSTO_TUTORIAL_Cover_Page" alt="" />
+
+<map name="TSTO_TUTORIAL_Cover_Page">
+<area shape="rect" coords="839,2133,1021,2174" href="https://github.com/bodnjenie14/Tsto---Simpsons-Tapped-Out---Private-Server/releases/tag/alpha" target="_blank" alt="Bodnjenie"
+	onMouseOver="if(document.images) document.TSTO_TUTORIAL_Cover_Page0.src='TSTO_TUTORIAL_Cover_Page.gif';" >
+<area shape="rect" coords="1034,2129,1303,2173" href="https://github.com/TappedOutReborn/GameServer-Reborn" target="_blank" alt="TappedOutReborn">
+<area shape="rect" coords="1313,2133,1379,2171" href="https://github.com/tjac/tsto_server/releases" target="_blank" alt="Tjac">
+<area shape="rect" coords="1383,2133,1483,2169" href="https://github.com/d-fens/tsto_server" target="_blank" alt="d-fens">
+</map>
+
+</body>
+</html>
